@@ -22,7 +22,7 @@ Adjusts the font, colors, and layout of elements.
 Ensures the canvas size is correctly displayed.
 
 # JavaScript
-# Purpose: Adds functionality and interactivity.
+Purpose: Adds functionality and interactivity.
 Role in the Spreadsheet App:
 Handles cell selection, input, and formulas.
 Updates cell formatting (Bold, Italic, Colors, etc.) dynamically.
