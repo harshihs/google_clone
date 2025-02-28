@@ -3,22 +3,25 @@
 1. Html
 2. Css
 3. JavaScript
-   HTML (HyperText Markup Language)
 
-# Purpose: Defines the structure of a webpage.
+
+# HTML (HyperText Markup Language)
+
+Purpose: Defines the structure of a webpage.
 Role in the Spreadsheet App:
 Creates the toolbar with buttons (Bold, Italic, Underline, Font Size, etc.).
 Includes a canvas element where the spreadsheet is drawn.
 Provides input fields for formulas.
-CSS (Cascading Style Sheets)
 
-# Purpose: Controls the appearance of a webpage.
+
+# CSS (Cascading Style Sheets)
+Purpose: Controls the appearance of a webpage.
 Role in the Spreadsheet App:
 Styles the spreadsheet grid and toolbar buttons.
 Adjusts the font, colors, and layout of elements.
 Ensures the canvas size is correctly displayed.
-JavaScript
 
+# JavaScript
 # Purpose: Adds functionality and interactivity.
 Role in the Spreadsheet App:
 Handles cell selection, input, and formulas.
